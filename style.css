@@ -64,6 +64,7 @@ ul {
     list-style-type: none;
     padding: 0;
     background-color: white;
+    margin: 0;
 
     
     
@@ -96,9 +97,9 @@ ul {
     width: 400px;
     float: left;
 
-  }
+}
 
   .merkurfelszine{
     width: 400px;
-    float: right;
-  }
+    float: right;  
+}
