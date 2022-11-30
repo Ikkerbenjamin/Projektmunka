@@ -64,7 +64,8 @@ ul {
     list-style-type: none;
     padding: 0;
     background-color: white;
-    margin: 0;
+
+    
     
     
 }
@@ -89,4 +90,15 @@ ul {
     border-radius: 20px;
     text-align: justify;
     font-family: serif;
+  }
+
+  .merkur{
+    width: 400px;
+    float: left;
+
+  }
+
+  .merkurfelszine{
+    width: 400px;
+    float: right;
   }
