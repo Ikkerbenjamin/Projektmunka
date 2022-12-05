@@ -1,6 +1,6 @@
 body{
     background-image: url(images/hatter_kezdo.webp);
-    background-size: cover;
+    background-size: 100%;
 }
 
 
@@ -104,28 +104,26 @@ h2{
 }
 
 .menu {
-  width: 400px;
+  width: 100%;
   float: left;
   height: 70px;
-  
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 
 }
 
 ul{
   float: left;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
+  
   
 
 }
 
 ul li{
   list-style: none;
-  margin-left: 81px;
-  margin-top: 27px;
-  font-size: 14px;
 
 }
 
@@ -134,6 +132,15 @@ a{
   color: #f1f1f1;
   font-family: serif;
   font-size: 20px;
+  margin-left: 81px;
+  margin-top: 27px;
+  font-size: 20px;
+  
+  transition: 0.4s ease-in-out;
+}
+
+a:hover{
+  color: #979797;
 }
 
 
@@ -144,8 +151,15 @@ img{
   margin-left: 20px;
 }
 
-.balold:hover{
-  width: 500px;
-
+.fold{
+  width: 400px;
+  float: right;
+  transition: 0.4s ease-in-out;
+  
 }
+
+.fold:hover{
+  width: 450px;
+}
+
 
