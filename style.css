@@ -74,6 +74,7 @@ h2{
     color: #979797;
     font-size: 150%;
     text-shadow: 1px 1px #050505;
+    
 
   }
 
@@ -89,21 +90,24 @@ h2{
     font-family: serif;
   }
 
-  .merkur{
-    width: 400px;
+  .balold{
+    width: 450px;
     float: left;
+    margin-top: 20px;
+    transition: 0.4s ease-in-out;
 
 }
 
-  .merkurfelszine{
-    width: 400px;
-    float: right;  
+.jobbold{
+  width: 400px;
+  float: right;  
 }
 
 .menu {
   width: 400px;
   float: left;
   height: 70px;
+  
   
 
 }
@@ -135,8 +139,13 @@ a{
 
 img{
   border-radius: 10px;
-  border: #050505 solid 1px;
-  box-shadow: 7px 7px;
+  border: white solid 1px;
   margin-right: 20px;
   margin-left: 20px;
 }
+
+.balold:hover{
+  width: 500px;
+
+}
+
