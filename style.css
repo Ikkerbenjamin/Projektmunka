@@ -9,7 +9,8 @@ h1{
     font-family:serif;
     font-size: 80px;
     text-align: center;
-    margin-top: 120px;
+    margin-top: 20px;
+    
 }
 
 h2{
@@ -60,25 +61,20 @@ h2{
     background-color: #464646;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-    background-color: white;
-    margin: 0;
+
 
     
     
     
-}
+
   
-  li {
-    display: inline;
-  }
+
 
   p{
     color: #979797;
     font-size: 150%;
     text-shadow: 1px 1px #050505;
+
   }
 
   .masodhatter{
@@ -102,4 +98,45 @@ ul {
   .merkurfelszine{
     width: 400px;
     float: right;  
+}
+
+.menu {
+  width: 400px;
+  float: left;
+  height: 70px;
+  
+
+}
+
+ul{
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+ul li{
+  list-style: none;
+  margin-left: 81px;
+  margin-top: 27px;
+  font-size: 14px;
+
+}
+
+a{
+  text-decoration: none;
+  color: #f1f1f1;
+  font-family: serif;
+  font-size: 20px;
+}
+
+
+img{
+  border-radius: 10px;
+  border: #050505 solid 1px;
+  box-shadow: 7px 7px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
