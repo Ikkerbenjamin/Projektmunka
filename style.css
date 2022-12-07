@@ -114,6 +114,8 @@ h2{
   background-color: #464646;
   border: #464646 1px solid;
   border-radius: 20px;
+  position: -webkit-sticky;
+  position: sticky;
 
 
 }
@@ -194,5 +196,5 @@ img{
   }
 }
 .navbar{
-  position: -webkit-sticky;
+  
 }
