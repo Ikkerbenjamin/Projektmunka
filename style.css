@@ -110,6 +110,9 @@ h2{
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #464646;
+  border: #464646 1px solid;
+  border-radius: 20px;
 
 
 }
@@ -154,12 +157,15 @@ img{
 .fold{
   width: 400px;
   float: right;
-  transition: 0.4s ease-in-out;
-  
 }
 
-.fold:hover{
-  width: 450px;
+.menupont{
+  font-size: 30px;
+  padding-left: 75px;
+  margin: auto;
 }
 
-
+.foldmenu{
+  font-size: 30px;
+  margin: auto;
+}
