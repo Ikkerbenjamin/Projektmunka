@@ -168,7 +168,21 @@ img{
 .foldmenu{
   font-size: 30px;
   margin: auto;
+  color: #000;
+  font-weight: bold;
+  text-shadow: 0 0 20px white,
+               0 0 50px white,
+               0 0 75px white,
+               0 0 150px white;
 }
+.foldmenu:hover{
+  text-shadow: 0 0 20px black,
+  0 0 50px black,
+  0 0 75px black,
+  0 0 150px black;
+  color: white;
+}
+
 
 .forgofold{
   width: 300px;
@@ -192,4 +206,6 @@ img{
       background-position-x: 1000px;
   }
 }
+
+
 
