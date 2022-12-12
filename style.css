@@ -233,15 +233,12 @@ padding-left: 75px;
   color: white;
 }
 
-#hold{
- padding-top: 200px;
-}
 
 #video1{
   padding-left: 275px;
   padding-right: 250px;
 }
-
-#bolygok{
-  padding-left: 300px;
+ 
+.navbar{
+  margin: auto;
 }
