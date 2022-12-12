@@ -11,8 +11,7 @@ Kiss Marcell:
 - Stíluslap szerkesztése
 - Uránusz mellékoldal szerkesztése
 - Neptunusz mellékoldal szerkesztése
-- Nap mellékoldal szerkesztése
-- Plútó mellékoldal szerkesztése
+
 
 
 Ikker Benjámin:
@@ -23,3 +22,6 @@ Ikker Benjámin:
 - Mars mellékoldal szerkesztése
 - Szaturnusz mellékoldal szerkesztése
 - Vénusz mellékoldal szerkesztése
+- Plútó mellékoldal szerkesztése
+- Nap mellékoldal szerkesztése
+
