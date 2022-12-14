@@ -9,8 +9,7 @@ A többi oldalon a bolygók jellemzéseire is kitérünk, valamint arra is, hogy
 Kiss Marcell:
 - Főoldal szerkesztése
 - Stíluslap szerkesztése
-- Uránusz mellékoldal szerkesztése
-- Neptunusz mellékoldal szerkesztése
+
 
 
 
@@ -24,4 +23,6 @@ Ikker Benjámin:
 - Vénusz mellékoldal szerkesztése
 - Plútó mellékoldal szerkesztése
 - Nap mellékoldal szerkesztése
+- Uránusz mellékoldal szerkesztése
+- Neptunusz mellékoldal szerkesztése
 
