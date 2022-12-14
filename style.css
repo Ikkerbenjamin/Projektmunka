@@ -170,18 +170,10 @@ img{
   margin: auto;
   color: #000;
   font-weight: bold;
-  text-shadow: 0 0 20px white,
-               0 0 50px white,
-               0 0 75px white,
-               0 0 150px white;
-padding-left: 75px;
+
 }
 .foldmenu:hover{
-  text-shadow: 0 0 20px black,
-  0 0 50px black,
-  0 0 75px black,
-  0 0 150px black;
-  color: white;
+  color: #979797;
 }
 
 
@@ -216,22 +208,16 @@ padding-left: 75px;
 .fooldal{
   font-size: 30px;
   margin: auto;
-  color: #000;
   font-weight: bold;
-  text-shadow: 0 0 20px white,
-               0 0 50px white,
-               0 0 75px white,
-               0 0 150px white;
+  color: #000;
 }
-
-
 .fooldal:hover{
-  text-shadow: 0 0 20px black,
-  0 0 50px black,
-  0 0 75px black,
-  0 0 150px black;
   color: white;
+  font-weight: bold;
 }
+
+
+
 
 
 #video1{
@@ -258,6 +244,15 @@ padding-left: 75px;
   color: #979797;
 }
 
-.venusz{
-  
+.menupont1{
+  color: #000;
+  font-weight: bold;
+  padding-left: 75px;
+  margin: auto;
+
+}
+
+.menupont1:hover{
+  color: white;
+  font-weight: bold;
 }
