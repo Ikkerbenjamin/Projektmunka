@@ -168,7 +168,7 @@ img{
 .foldmenu{
   font-size: 30px;
   margin: auto;
-  color: #000;
+  color:white;
   font-weight: bold;
 
 }
@@ -249,6 +249,7 @@ img{
   font-weight: bold;
   padding-left: 75px;
   margin: auto;
+  font-size: 30px;
 
 }
 
