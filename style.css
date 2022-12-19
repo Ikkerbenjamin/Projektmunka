@@ -329,3 +329,10 @@ img{
   border-radius: 20px;
   
 }
+
+footer{
+  width: 900px;
+  background-repeat: no-repeat;
+  background-image: url(images/blurry-gradient-haikei.png);
+  
+}
