@@ -24,9 +24,9 @@ body {
 }
 @keyframes rotate {
     0% {
-        background-position-x: 0px ;
+        image-orientation: 0px ;
     }
     100% {
-        background-position-x: 1000px;
+        image-orientation: 1000px;
     }
 }
