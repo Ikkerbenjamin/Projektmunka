@@ -134,10 +134,8 @@ a{
   color: #f1f1f1;
   font-family: serif;
   font-size: 20px;
-  margin-left: 81px;
   margin-top: 27px;
   font-size: 20px;
-  
   transition: 0.4s ease-in-out;
 }
 
@@ -363,14 +361,16 @@ h3{
   margin-right: 15px;
 }
 
-button{
+
+
+#vege{
+ padding-left: 0;
+ text-align: center;
+}
+
+#wikipedia{
   background-color: grey;
   border: 1px solid white;
   border-radius: 20px;
   padding-left: 0;
-  margin-left: 42%;
-}
-
-#vege{
- padding-left: 0;
 }
