@@ -374,3 +374,14 @@ h3{
   border-radius: 20px;
   padding-left: 0;
 }
+
+table, td, tr{
+  margin: auto;
+  border: 1px white solid;
+  font-size: 20px;
+  color: #f1f1f1;
+  background-color: #464646;
+}
+table{
+  margin-bottom: 30px;
+}
