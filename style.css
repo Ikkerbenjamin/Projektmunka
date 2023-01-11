@@ -385,3 +385,8 @@ table, td, tr{
 table{
   margin-bottom: 30px;
 }
+
+#wikipedia:hover {
+  background-color: #000;
+  color: #f1f1f1;
+}
